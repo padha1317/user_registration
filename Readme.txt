@@ -16,6 +16,7 @@ Import the loginsystem.sql file (located in the SQL folder of the extracted pack
 Step 4: Run the Application
 Frontend (User Panel): http://localhost/loginsystem
 Admin Panel: http://localhost/loginsystem/admin
+
 Login Credentials
 Admin Panel
 Username: admin
@@ -23,6 +24,7 @@ Password: Test@12345
 User Panel
 Username: johndoe12@gmail.com
 Password: Test@12345
+
 Features
 ✅ Secure User Authentication (Login & Registration)
 ✅ Admin Dashboard for Managing Users
